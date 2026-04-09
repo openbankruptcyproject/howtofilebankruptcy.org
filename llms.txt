@@ -1,16 +1,180 @@
-# howtofilebankruptcy.org
+# How to File Bankruptcy -- Bankruptcy Law Guide, Chapter 7 & 13 [2026]
+> Free how to file bankruptcy guide for 2026. Bankruptcy law explained: Chapter 7 vs Chapter 13, exemptions, filing costs, means test, and ste...
 
-> Step-by-step guide to filing bankruptcy -- credit counseling, means test, petition, 341 meeting, discharge.
+## About
+howtofilebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-howtofilebankruptcy.org is a free, open-source educational resource. Part of the Bankruptcy Transparency Network.
-
-## Pages
-
-- https://howtofilebankruptcy.org/ -- Step-by-step bankruptcy filing guide
-- https://howtofilebankruptcy.org/documents-checklist.html -- Documents needed to file
-- https://howtofilebankruptcy.org/filing-fees.html -- Court fees, fee waivers, installment plans
-- https://howtofilebankruptcy.org/find-your-court.html -- Find your local bankruptcy court
+## Key Pages
+- Bankruptcy Court Locations -- Find Your Court by State -- How to File: https://howtofilebankruptcy.org/bankruptcy-court-locations.html
+- Bankruptcy Jurisdiction and Venue -- Where to File -- How to File: https://howtofilebankruptcy.org/bankruptcy-jurisdiction.html
+- Bankruptcy Laws -- Federal Bankruptcy Code Overview [2026] -- How to File: https://howtofilebankruptcy.org/bankruptcy-laws.html
+- Bare Bones Bankruptcy Filing -- Emergency Filing Guide -- How to File: https://howtofilebankruptcy.org/bare-bones-filing.html
+- Chapter 7 vs Chapter 13 -- Which Bankruptcy Should I File? -- How to File: https://howtofilebankruptcy.org/choosing-chapter.html
+- Common Mistakes When Filing Bankruptcy (2026) -- How to File: https://howtofilebankruptcy.org/common-mistakes-filing-bankruptcy.html
+- Pre-Filing Credit Counseling Requirement for Bankruptcy -- How to File: https://howtofilebankruptcy.org/credit-counseling.html
+- Divorce and Bankruptcy: Which to File First [2026 Guide] -- How to File: https://howtofilebankruptcy.org/divorce-bankruptcy.html
+- Bankruptcy Document Checklist -- Everything You Need -- How to File: https://howtofilebankruptcy.org/documents-checklist.html
+- Emergency Bankruptcy Filing [2026] -- Stop Foreclosure, Garnishment, Repossession -- How to File: https://howtofilebankruptcy.org/emergency-filing.html
+- Bankruptcy Filing Fees -- How Much Does It Cost? -- How to File: https://howtofilebankruptcy.org/filing-fees.html
+- Find Your Bankruptcy Court -- How to File: https://howtofilebankruptcy.org/find-your-court.html
+- How Long Does Bankruptcy Take? (2026) -- How to File: https://howtofilebankruptcy.org/how-long-does-bankruptcy-take.html
+- How to File Bankruptcy -- Bankruptcy Law Guide, Chapter 7 & 13: https://howtofilebankruptcy.org/
+- Can I File Bankruptcy Online? -- How to File: https://howtofilebankruptcy.org/online-filing.html
+- Pros and Cons of Filing Bankruptcy -- Should I File? -- How to File: https://howtofilebankruptcy.org/pros-cons.html
+- Rules for Filing Bankruptcy -- Eligibility Requirements [2026] -- How to File: https://howtofilebankruptcy.org/rules-for-filing.html
+- Step 1: Credit Counseling Before Filing Bankruptcy (2026) -- How to File: https://howtofilebankruptcy.org/step-1-credit-counseling.html
+- Step 2: Complete the Means Test (2026) -- How to File: https://howtofilebankruptcy.org/step-2-means-test.html
+- Step 3: Gather Your Bankruptcy Documents (2026) -- How to File: https://howtofilebankruptcy.org/step-3-gather-documents.html
+- Step 4: Fill Out Bankruptcy Forms (2026) -- How to File: https://howtofilebankruptcy.org/step-4-fill-out-forms.html
+- Step 5: File Your Bankruptcy Petition (2026) -- How to File: https://howtofilebankruptcy.org/step-5-file-petition.html
+- Step 6: The 341 Meeting of Creditors (2026) -- How to File: https://howtofilebankruptcy.org/step-6-341-meeting.html
+- Step 7: Financial Management Course (2026) -- How to File: https://howtofilebankruptcy.org/step-7-financial-management-course.html
+- Step 8: Receiving Your Bankruptcy Discharge (2026) -- How to File: https://howtofilebankruptcy.org/step-8-discharge.html
+- How to File Bankruptcy Step by Step -- 10 Steps to Discharge: https://howtofilebankruptcy.org/step-by-step.html
+- How Long Does It Take to File Bankruptcy? -- How to File: https://howtofilebankruptcy.org/timeline.html
+- How to File Bankruptcy -- Central District of California: https://howtofilebankruptcy.org/districts/central-district-of-california.html
+- How to File Bankruptcy -- Eastern District of New York: https://howtofilebankruptcy.org/districts/eastern-district-of-new-york.html
+- How to File Bankruptcy by District: https://howtofilebankruptcy.org/districts/
+- How to File Bankruptcy -- Middle District of Florida: https://howtofilebankruptcy.org/districts/middle-district-of-florida.html
+- How to File Bankruptcy -- Northern District of Georgia: https://howtofilebankruptcy.org/districts/northern-district-of-georgia.html
+- How to File Bankruptcy -- Northern District of Illinois: https://howtofilebankruptcy.org/districts/northern-district-of-illinois.html
+- How to File Bankruptcy -- Northern District of Ohio: https://howtofilebankruptcy.org/districts/northern-district-of-ohio.html
+- How to File Bankruptcy -- Southern District of Florida: https://howtofilebankruptcy.org/districts/southern-district-of-florida.html
+- How to File Bankruptcy -- Southern District of New York: https://howtofilebankruptcy.org/districts/southern-district-of-new-york.html
+- How to File Bankruptcy -- Western District of Missouri: https://howtofilebankruptcy.org/districts/western-district-of-missouri.html
+- How to File Bankruptcy -- Western District of Tennessee: https://howtofilebankruptcy.org/districts/western-district-of-tennessee.html
+- How to File Bankruptcy in Alabama -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/alabama.html
+- How to File Bankruptcy in Alaska -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/alaska.html
+- How to File Bankruptcy in Arizona -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/arizona.html
+- How to File Bankruptcy in Arkansas -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/arkansas.html
+- How to File Bankruptcy in California -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/california.html
+- How to File Bankruptcy in Colorado -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/colorado.html
+- How to File Bankruptcy in Connecticut -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/connecticut.html
+- How to File Bankruptcy in Delaware -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/delaware.html
+- How to File Bankruptcy in District of Columbia -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/district-of-columbia.html
+- How to File Bankruptcy in Florida -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/florida.html
+- How to File Bankruptcy in Georgia -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/georgia.html
+- How to File Bankruptcy in Hawaii -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/hawaii.html
+- How to File Bankruptcy in Idaho -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/idaho.html
+- How to File Bankruptcy in Illinois -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/illinois.html
+- How to File Bankruptcy by State -- All 50 States + DC: https://howtofilebankruptcy.org/states/
+- How to File Bankruptcy in Indiana -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/indiana.html
+- How to File Bankruptcy in Iowa -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/iowa.html
+- How to File Bankruptcy in Kansas -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/kansas.html
+- How to File Bankruptcy in Kentucky -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/kentucky.html
+- How to File Bankruptcy in Louisiana -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/louisiana.html
+- How to File Bankruptcy in Maine -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/maine.html
+- How to File Bankruptcy in Maryland -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/maryland.html
+- Filing Bankruptcy in Massachusetts -- Step-by-Step Guide [2026] -- How to File: https://howtofilebankruptcy.org/states/massachusetts.html
+- How to File Bankruptcy in Michigan -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/michigan.html
+- How to File Bankruptcy in Minnesota -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/minnesota.html
+- How to File Bankruptcy in Mississippi -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/mississippi.html
+- How to File Bankruptcy in Missouri -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/missouri.html
+- How to File Bankruptcy in Montana -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/montana.html
+- How to File Bankruptcy in Nebraska -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/nebraska.html
+- How to File Bankruptcy in Nevada -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/nevada.html
+- How to File Bankruptcy in New Hampshire -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/new-hampshire.html
+- How to File Bankruptcy in New Jersey -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/new-jersey.html
+- How to File Bankruptcy in New Mexico -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/new-mexico.html
+- How to File Bankruptcy in New York -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/new-york.html
+- How to File Bankruptcy in North Carolina -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/north-carolina.html
+- How to File Bankruptcy in North Dakota -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/north-dakota.html
+- How to File Bankruptcy in Ohio -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/ohio.html
+- How to File Bankruptcy in Oklahoma -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/oklahoma.html
+- How to File Bankruptcy in Oregon -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/oregon.html
+- How to File Bankruptcy in Pennsylvania -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/pennsylvania.html
+- How to File Bankruptcy in Rhode Island -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/rhode-island.html
+- How to File Bankruptcy in South Carolina -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/south-carolina.html
+- How to File Bankruptcy in South Dakota -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/south-dakota.html
+- How to File Bankruptcy in Tennessee -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/tennessee.html
+- How to File Bankruptcy in Texas -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/texas.html
+- How to File Bankruptcy in Utah -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/utah.html
+- How to File Bankruptcy in Vermont -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/vermont.html
+- How to File Bankruptcy in Virginia -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/virginia.html
+- How to File Bankruptcy in Washington -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/washington.html
+- How to File Bankruptcy in West Virginia -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/west-virginia.html
+- How to File Bankruptcy in Wisconsin -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/wisconsin.html
+- How to File Bankruptcy in Wyoming -- Step-by-Step Guide: https://howtofilebankruptcy.org/states/wyoming.html
+- Como Declararse en Bancarrota en Alabama -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/alabama.html
+- Como Declararse en Bancarrota en Alaska -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/alaska.html
+- Como Declararse en Bancarrota en Arizona -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/arizona.html
+- Como Declararse en Bancarrota en Arkansas -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/arkansas.html
+- Como Declararse en Bancarrota en California -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/california.html
+- Como Declararse en Bancarrota en Colorado -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/colorado.html
+- Como Declararse en Bancarrota en Connecticut -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/connecticut.html
+- Como Declararse en Bancarrota en Delaware -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/delaware.html
+- Como Declararse en Bancarrota en Distrito de Columbia -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/district-of-columbia.html
+- Como Declararse en Bancarrota en Florida -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/florida.html
+- Como Declararse en Bancarrota en Georgia -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/georgia.html
+- Como Declararse en Bancarrota en Hawái -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/hawaii.html
+- Como Declararse en Bancarrota en Idaho -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/idaho.html
+- Como Declararse en Bancarrota en Illinois -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/illinois.html
+- Como Declararse en Bancarrota por Estado [2026] -- How to File: https://howtofilebankruptcy.org/states-es/
+- Como Declararse en Bancarrota en Indiana -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/indiana.html
+- Como Declararse en Bancarrota en Iowa -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/iowa.html
+- Como Declararse en Bancarrota en Kansas -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/kansas.html
+- Como Declararse en Bancarrota en Kentucky -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/kentucky.html
+- Como Declararse en Bancarrota en Luisiana -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/louisiana.html
+- Como Declararse en Bancarrota en Maine -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/maine.html
+- Como Declararse en Bancarrota en Maryland -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/maryland.html
+- Como Declararse en Bancarrota en Massachusetts -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/massachusetts.html
+- Como Declararse en Bancarrota en Míchigan -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/michigan.html
+- Como Declararse en Bancarrota en Minnesota -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/minnesota.html
+- Como Declararse en Bancarrota en Misisipi -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/mississippi.html
+- Como Declararse en Bancarrota en Misuri -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/missouri.html
+- Como Declararse en Bancarrota en Montana -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/montana.html
+- Como Declararse en Bancarrota en Nebraska -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/nebraska.html
+- Como Declararse en Bancarrota en Nevada -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/nevada.html
+- Como Declararse en Bancarrota en Nueva Hampshire -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/new-hampshire.html
+- Como Declararse en Bancarrota en Nueva Jersey -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/new-jersey.html
+- Como Declararse en Bancarrota en Nuevo México -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/new-mexico.html
+- Como Declararse en Bancarrota en Nueva York -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/new-york.html
+- Como Declararse en Bancarrota en Carolina del Norte -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/north-carolina.html
+- Como Declararse en Bancarrota en Dakota del Norte -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/north-dakota.html
+- Como Declararse en Bancarrota en Ohio -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/ohio.html
+- Como Declararse en Bancarrota en Oklahoma -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/oklahoma.html
+- Como Declararse en Bancarrota en Oregón -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/oregon.html
+- Como Declararse en Bancarrota en Pensilvania -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/pennsylvania.html
+- Como Declararse en Bancarrota en Rhode Island -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/rhode-island.html
+- Como Declararse en Bancarrota en Carolina del Sur -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/south-carolina.html
+- Como Declararse en Bancarrota en Dakota del Sur -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/south-dakota.html
+- Como Declararse en Bancarrota en Tennessee -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/tennessee.html
+- Como Declararse en Bancarrota en Texas -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/texas.html
+- Como Declararse en Bancarrota en Utah -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/utah.html
+- Como Declararse en Bancarrota en Vermont -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/vermont.html
+- Como Declararse en Bancarrota en Virginia -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/virginia.html
+- Como Declararse en Bancarrota en Washington -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/washington.html
+- Como Declararse en Bancarrota en Virginia Occidental -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/west-virginia.html
+- Como Declararse en Bancarrota en Wisconsin -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/wisconsin.html
+- Como Declararse en Bancarrota en Wyoming -- Guia Paso a Paso [2026] -- How to File: https://howtofilebankruptcy.org/states-es/wyoming.html
+- Bankruptcy Courts by District -- All Federal Districts [2026] -- How to File: https://howtofilebankruptcy.org/courts/
+- How to File Bankruptcy -- Southern District of Florida: https://howtofilebankruptcy.org/courts/southern-district-of-florida.html
+- How to File Bankruptcy -- Western District of Missouri: https://howtofilebankruptcy.org/courts/western-district-of-missouri.html
+- How to File Bankruptcy -- District of Kansas: https://howtofilebankruptcy.org/courts/district-of-kansas.html
+- How to File Bankruptcy -- Southern District of Texas: https://howtofilebankruptcy.org/courts/southern-district-of-texas.html
+- How to File Bankruptcy -- Northern District of Illinois: https://howtofilebankruptcy.org/courts/northern-district-of-illinois.html
+- How to File Bankruptcy -- Central District of California: https://howtofilebankruptcy.org/courts/central-district-of-california.html
+- How to File Bankruptcy -- Middle District of Florida: https://howtofilebankruptcy.org/courts/middle-district-of-florida.html
+- How to File Bankruptcy -- Eastern District of Missouri: https://howtofilebankruptcy.org/courts/eastern-district-of-missouri.html
+- How to File Bankruptcy -- Northern District of Ohio: https://howtofilebankruptcy.org/courts/northern-district-of-ohio.html
+- How to File Bankruptcy -- Southern District of Indiana: https://howtofilebankruptcy.org/courts/southern-district-of-indiana.html
+- How to File Bankruptcy -- Western District of Tennessee: https://howtofilebankruptcy.org/courts/western-district-of-tennessee.html
+- How to File Bankruptcy -- Northern District of Georgia: https://howtofilebankruptcy.org/courts/northern-district-of-georgia.html
+- How to File Bankruptcy -- Eastern District of Pennsylvania: https://howtofilebankruptcy.org/courts/eastern-district-of-pennsylvania.html
+- How to File Bankruptcy -- District of New Jersey: https://howtofilebankruptcy.org/courts/district-of-new-jersey.html
+- How to File Bankruptcy -- Eastern District of Wisconsin: https://howtofilebankruptcy.org/courts/eastern-district-of-wisconsin.html
+- How to File Bankruptcy -- Northern District of Indiana: https://howtofilebankruptcy.org/courts/northern-district-of-indiana.html
+- How to File Bankruptcy -- District of Massachusetts: https://howtofilebankruptcy.org/courts/district-of-massachusetts.html
+- How to File Bankruptcy -- Eastern District of Virginia: https://howtofilebankruptcy.org/courts/eastern-district-of-virginia.html
+- How to File Bankruptcy -- Eastern District of Michigan: https://howtofilebankruptcy.org/courts/eastern-district-of-michigan.html
+- How to File Bankruptcy -- Northern District of Texas: https://howtofilebankruptcy.org/courts/northern-district-of-texas.html
+- How to File Bankruptcy FAQ -- Step-by-Step Filing Questions: https://howtofilebankruptcy.org/frequently-asked-questions.html
+- Bankruptcy Filing Checklist -- Printable Document List: https://howtofilebankruptcy.org/filing-checklist.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
