@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>howtofilebankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://howtofilebankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://howtofilebankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://howtofilebankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>How to File Bankruptcy -- Bankruptcy Law Guide, Chapter 7 &amp; 13 [2026]</title>
+    <link href="https://howtofilebankruptcy.org/" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free how to file bankruptcy guide for 2026. Bankruptcy law explained: Chapter 7 vs Chapter 13, exemptions, filing costs, means test, and step-by-step instructions.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bankruptcy Court Locations -- Find Your Court by State</title>
+    <link href="https://howtofilebankruptcy.org/bankruptcy-court-locations.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/bankruptcy-court-locations.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Find your bankruptcy court by state and district. Complete directory of all 94 federal bankruptcy court locations with addresses and filing information.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bankruptcy Jurisdiction and Venue -- Where to File</title>
+    <link href="https://howtofilebankruptcy.org/bankruptcy-jurisdiction.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/bankruptcy-jurisdiction.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn about bankruptcy jurisdiction and venue -- where to file in our free 2026 guide. Clear explanations, real data, and practical steps.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bankruptcy Laws -- Federal Bankruptcy Code Overview [2026]</title>
+    <link href="https://howtofilebankruptcy.org/bankruptcy-laws.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/bankruptcy-laws.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn about bankruptcy laws -- federal bankruptcy code overview [2026] | howtofilebankruptcy.org in our free 2026 guide.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bare Bones Bankruptcy Filing -- Emergency Filing Guide</title>
+    <link href="https://howtofilebankruptcy.org/bare-bones-filing.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/bare-bones-filing.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How to file a bare bones bankruptcy petition in an emergency. Minimum required documents, 14-day deadline to complete, and when emergency filing makes.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 7 vs Chapter 13 -- Which Bankruptcy Should I File?</title>
+    <link href="https://howtofilebankruptcy.org/choosing-chapter.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/choosing-chapter.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Quick decision guide comparing Chapter 7 and Chapter 13 bankruptcy. Income, assets, debt type, timeline, and goals determine which chapter is right for.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Common Mistakes When Filing Bankruptcy (2026)</title>
+    <link href="https://howtofilebankruptcy.org/common-mistakes-filing-bankruptcy.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/common-mistakes-filing-bankruptcy.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn about common mistakes when filing bankruptcy (2026) | howtofilebankruptcy.org in our free 2026 guide.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Pre-Filing Credit Counseling Requirement for Bankruptcy</title>
+    <link href="https://howtofilebankruptcy.org/credit-counseling.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/credit-counseling.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You must complete credit counseling within 180 days before filing bankruptcy. Approved agencies, online options ($15-50), and what happens to the.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Divorce and Bankruptcy: Which to File First [2026 Guide]</title>
+    <link href="https://howtofilebankruptcy.org/divorce-bankruptcy.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/divorce-bankruptcy.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn about divorce and bankruptcy: which to file first [2026 guide] | howtofilebankruptcy.org in our free 2026 guide.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bankruptcy Document Checklist -- Everything You Need</title>
+    <link href="https://howtofilebankruptcy.org/documents-checklist.html" rel="alternate"/>
+    <id>https://howtofilebankruptcy.org/documents-checklist.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Learn about bankruptcy document checklist -- everything you need | howtofilebankruptcy.org in our free 2026 guide.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
